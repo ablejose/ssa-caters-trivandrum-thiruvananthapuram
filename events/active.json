@@ -1,0 +1,54 @@
+{
+  "slug": "ssa-caters-trivandrum-thiruvananthapuram",
+  "name": "SSA Caters,Trivandrum",
+  "shortName": "SSA Caters,Trivandrum",
+  "descriptor": "Catering Services",
+  "address": "SSA Caters, Bethel (H, TC 11/26-1, GV 99-A, Pattom, Thiruvananthapuram, Keralam 695003",
+  "area": "Pattom",
+  "city": "Thiruvananthapuram",
+  "district": "Thiruvananthapuram",
+  "region": "Kerala",
+  "postalCode": "695003",
+  "geo": {
+    "lat": 8.5195575,
+    "lng": 76.94902809999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=2320151703065913611",
+  "phone": "+91 97459 44447",
+  "whatsapp": "919745944447",
+  "hours": "Open 6 am – 10:30 pm · all days",
+  "opens": "06:00",
+  "closes": "22:30",
+  "rating": 4.9,
+  "reviewCount": 144,
+  "reviews": [
+    {
+      "name": "BIJU S",
+      "rating": 5,
+      "quote": "Excellent Sadhya by SSA Caterers We ordered a 30-person Sadhya from SSA Caterers for a function at our home, and the experience was outstanding. The food was delicious, with authentic flavors and excellent taste in every dish. All items were neatly packed, ensuring freshness and convenience."
+    },
+    {
+      "name": "PSMEDISOL",
+      "rating": 5,
+      "quote": "Excellent catering service! The food was very tasty and delicious, and everything was delivered with great punctuality and professionalism. The service and coordination were excellent, and the entire experience was smooth and hassle-free. Highly recommended for anyone looking for quality food and reliable catering service! 👌"
+    },
+    {
+      "name": "Shilpa Mohanan",
+      "rating": 5,
+      "quote": "We had ordered catering for our kids’ birthday party, and overall it was a very good experience. The food quality was excellent, especially the paneer butter masala and Payyoli chicken fry, which were well appreciated by both kids and adults. The veg fried rice and gobi Manchurian were flavorful and perfectly cooked."
+    },
+    {
+      "name": "VINODKUMAR GOVINDAN VIKRAMAN",
+      "rating": 5,
+      "quote": "Exceptional Service & Authentic Sadhya – Highly Recommended! We engaged SSA CATERS, Trivandrum, for our baby’s Noolukettu function today, and the experience was truly exceptional. The Kerala Sadhya was remarkably authentic; every dish, from avial to olan, captured the genuine essence of a traditional homemade feast."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/d01.webp",
+    "gallery/d02.webp",
+    "gallery/d03.webp"
+  ],
+  "url": "https://ssa-caters-trivandrum-thiruvanantha.vercel.app"
+}
